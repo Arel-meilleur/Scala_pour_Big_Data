@@ -1,0 +1,36 @@
+ Chap1 
+   1- 
+	- Le JDk désigne un ensemble de bibliothèques logicielles de base du langage de programmation Java
+	- Le JRE c'est l'environnement d'exécution de java
+	- Le bytecode est un code intermédiaire entre les instructions machines et le code source
+	- La JVM est la machine virtuelle de java on s'exécute les programe java
+   2-  le languag scala est conçu pour évoluer avec les demandes de son utilisateur, de l'écriture de petits scripts à la construction d'un système massif de traitement de données
+
+   3- Apache Spark est un moteur d'analyse unifié open source pour le traitement de données à grande échelle
+
+   4- Les différents cas d'utilisation du big data
+
+		Cas d'utilisation n° 1 : Analyse des journaux. ...
+		Cas d'utilisation n° 2 : personnalisation du commerce électronique. ...
+		Cas d'utilisation n° 3 : moteurs de recommandation. ...
+		Cas d'utilisation n° 4 : Placement automatisé des candidats dans le recrutement. ...
+		Cas d'utilisation n° 5 : détection de la fraude à l'assurance. ...
+		Cas d'utilisation n° 6 : amélioration de la pertinence et de la rétention pour la publication en ligne.	
+
+ 5- Les applications de scala
+	Canalisations de données.
+	Microservices.
+	Systèmes de transcodage vidéo.
+	Traitement de l'information en temps réel.
+	Diffusion d'annonces.
+	Traitement de l'information.
+	Plateformes de communication.
+	Projets de mégadonnées.
+
+
+6- produits célèbres développés à Scala
+
+	- Apache Spark
+	- Scalding
+
+

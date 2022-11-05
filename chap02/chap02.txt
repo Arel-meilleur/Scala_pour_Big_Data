@@ -1,0 +1,3 @@
+L'éssentiel de ce chapitre est basé sur l'installation de scala sur diverse plateforme comme windows, linux
+ En ce que qui me concerne je l'ai fait sur windown en téléchargeant le fichier rar, en suite le décoprésser, et le rajouter
+le chemin vers le dossier bin dans les variables d'environnement 

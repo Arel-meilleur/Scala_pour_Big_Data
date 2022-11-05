@@ -1,0 +1,5 @@
+Diéfférence entre une fonction et une méthode dans le contexcte de la programation fonctionnelle
+
+Différence entre les fonctions et les méthodes Scala : La fonction est un objet qui peut être stocké dans une variable. 
+Mais une méthode appartient toujours à une classe qui a un nom, un bytecode de signature, etc. 
+Fondamentalement, une méthode est une fonction qui est membre d'un objet
